@@ -1,1 +1,1 @@
-# Gen_AI_Tutorial
+# 生成AIのチュートリアル
