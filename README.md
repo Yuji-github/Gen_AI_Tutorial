@@ -1,4 +1,5 @@
 # 生成AIのチュートリアル
+Qiita: https://qiita.com/81yishikawa 
 
 生成AIのストラテジー：
 <p align="GenAI_Strategy">
